@@ -1,5 +1,5 @@
 -  Hi, I’m Aditya Meshram
-- Involved in simulating Multiphase, Two-Phase Dispersed Flows. My Research interests include Multiphase Flows, Fully Coupled Flows, Conjugate Heat Transfer, VOF methods, PINNs, etc. 
+- Involved in simulating Multiphase Flows. My research interests include VOF methods, HPC, and PINNs.
 -  Reach out to me at adityakmeshram@gmail.com 
 
 
