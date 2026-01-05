@@ -1,5 +1,5 @@
 -  Hi, I’m Aditya Meshram
-- Involved in simulating Multiphase Flows. My research interests include VOF methods, HPC, and PINNs.
+- My research interests include HPC, and PINNs.
 -  Reach out to me at adityakmeshram@gmail.com 
 
 
