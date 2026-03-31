@@ -1,5 +1,5 @@
 -  Hi, I’m Aditya Meshram
-- My research interests include HPC and PINNs.
+- My research interests are HPC and PINNs.
 -  Reach out to me at adityakmeshram@gmail.com 
 
 
